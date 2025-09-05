@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: saira;
+    src: url("../public/Font/Saira-VariableFont_wdth\,wght.ttf");
+}
+
+
+.link{
+    font-family:saira;
+}
+
+::selection{
+    color: lightblue;
+}
